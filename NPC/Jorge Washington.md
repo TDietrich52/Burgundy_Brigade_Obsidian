@@ -1,0 +1,1 @@
+A Burgundy playwriter. Had won a [[The Golden Mask Awards]] for his retelling of the classic tale [[The Court of Contempt]].  Was not nominated for anything in the 180th award show.

@@ -1,0 +1,2 @@
+## Basic Biography
+A conwoman who parades around as a mystic and a spell caster. She bull shits her way through misdirection and a strange charisma. She has been seen along the streets of burgundy spewing false prophecy or just pickpoketing passerbys.

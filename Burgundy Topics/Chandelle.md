@@ -1,0 +1,5 @@
+Chandelle is the god of the [[Chandelle Bookkeep]]. She is a sentient candle and her light illuminates the infinite bookshelves of the bookkeep.  
+ 
+ In elder common, “chandelle” means candle. The founding members of the bookkeep knew it was best to use elder common as a coded language during [[Valtarian Wars]]. In the dead of night bookkeepers would congregate at the house that arranged an ever lit candle at nights to avoid detection. The anchor to the Chandelle Bookkeep is one of these candles. One that is everlasting, its flame illuminates the dark of the night, casting light over the unknown, revealing the knowledge left illusive by shadows. The light of these candles became an emblem to the bookkeepers. It is thought that the ever light candle became some sort of arcane object, its ever burning flame locked away in the depths of the Bookkeep.
+ 
+  The candle, aka ‘Candelle’, is an Elder Good.

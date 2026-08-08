@@ -1,0 +1,1 @@
+Former President of [[The Revachol Union]], killed by [[Project PA]]

@@ -1,0 +1,3 @@
+Brutus the Red Scourge was an Ancient Red Dragon who lived deep in the Grim Mountains. In the year 4534, Brutus visited the city of Burgundy demanding tributes and taxes or else he'd destroy the city. The city placated him for a time until he was ambushed the dragon and slayed him. 
+
+His skeleton was preserved and displayed as a trophy for all of Burgundy to gawk at. Until 4665 when it was moved to the [[Bordeaux Museum]] for a safer display. 

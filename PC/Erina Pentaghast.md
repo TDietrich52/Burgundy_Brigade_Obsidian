@@ -1,0 +1,3 @@
+A member of [[SCAB]]. She wears a maid outfit nearly 24/7. A member of the followers of Loobba. Usually spotted in the strangest of situations, usually magical, or helping others when she can. [[Arthur SCAB]] checks in with her regulary and decides where and what her next assignment is. She was also present for the [[Tenenbaum]] incident. This is also where she learned about the village of [[Mekkel]].
+
+Currently Pretending to be a member of [[PIBB]] while investigating [[Modern Black Star Terror Attacks]] in [[Indigo]]

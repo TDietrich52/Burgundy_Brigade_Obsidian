@@ -1,0 +1,1 @@
+A pocket dimension of the [[Shadowfell]] created by intense emotions such as dread, sorrow, and misery.

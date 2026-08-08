@@ -1,0 +1,2 @@
+A corrupted Blood Ent formed from the blasphemous sacrifices of the Tenenbaum villagers
+	A poisoned gift from [[Flora]] orginally given to the village of [[Mekkel]], which became tainted by [[Panda Plague]] and transformed into something else, something more sinister.

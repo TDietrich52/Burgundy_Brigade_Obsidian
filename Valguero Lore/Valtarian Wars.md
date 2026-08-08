@@ -1,0 +1,1 @@
+In the late 5000s the [[Valtarian Empire]] invaded much of the surrounding and neighboring land. These invasions and conflicts were nicknamed "The Valtarian Wars"

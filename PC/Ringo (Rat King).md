@@ -1,0 +1,3 @@
+- Ringo was a former waiter at [[Gourm Clair De Lune]].
+- His evil alter ego was the Rat King, who the the mastermind behind the [[Rat King Incident]]
+- He was killed by [[Cisco]], [[Lawrence]], [[Jon Johnson (Abe Stone)]], and [[Stuff]]

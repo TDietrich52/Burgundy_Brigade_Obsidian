@@ -1,0 +1,5 @@
+The Roi Cercle Library is one of the oldest libraries in Burgundy. Located in the [[Heritage District]], it's been recently redesigned in the last hundred years, to include circular bookshelves, for both space and flow. The Roi is multileveled, the cylindrical book shelves double as foundational support into the lower levels of the library. It holds books in a variety of languages, history, biology, and arcanic education. Spell books and tomes are however not held in the Roi, as it takes strength and wisdom to handle that kind of literature and are at a separate facility. The Roi has a magical search function, blocks with characters of a variety of languages are placed in a line and function as keywords in order to locate a certain book.
+
+Contains an entrance to the [[Chandelle Bookkeep]].
+
+Also connected to the [[Ambassador's Library]].

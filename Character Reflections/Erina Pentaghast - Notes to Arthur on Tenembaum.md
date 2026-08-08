@@ -1,0 +1,28 @@
+*Notes from [[Erina Pentaghast]] to Arthur SCAB on the Tenenbaum incident*
+
+Upon arrival villagers are concerned about the crop yield, they seem to worship a god called Alraune. ~~Maybe one of the villagers is hoarding the majority of the food?~~
+
+Roots from the giant tree are used in making the housing here. ~~It looks rather difficult to make.~~ The roots of the tree have runes inscribed in them. Apparently Alraune is the giant tree in the center of the town. The tree makes all the housing and supposedly yields crops to the villagers. I tried to examine the runes on the roots, but was stopped by one of the villagers. They seem very protective of the tree. Will need to investigate further if the tree is malicious or belligerent.
+
+The villagers seem to have strange markings on their chests. They seem like runes, but I can't tell for sure. What I can tell is that the markings seem to be made from the roots of Alraune. When I asked the villagers they called them sacred markings, however it is clear to me they're hiding something from me.
+
+I talked to the Mayor of the town, a man named Clover. He is apparently also the priest of this town. I think it's fairly obvious at this point that this town is **very** religous. Clover told me that Alraune protected Tenenbaum from the Panda Plague. Asked again about the markings and he told me that Alraune requires sacrifice. Of what nature I am unsure. Will need to look further into that later. Decided to head to the inn for tonight. According to Clover, the innkeeper, Dahlia, likes guests, which is odd considering the vibes I've been getting from every other villager here.
+
+Well it seems I'm not the only foreigner here. There are 4 others who are checking in at the inn tonight. Their's Geoffrey Jackalope, Bracket, Mockinplier, and Declann Dahl. They've all traveled here as either passer bys or settlers. Declan lit a match and Dahlia's disposition changed. She told us that fire is the enemy of nature. These people are really protective of their tree. It's honestly a little scary.
+
+Took a sip of Dahlia's drinks and it tasted strange. It was like moonshine mixed with rotten flesh. The only one who doesn't seem to taste this is Mockinplier. He downed 3 jugs of the stuff and now "Alraune's sacred markings" are forming on his body. Dahlia says that the drinks are made from Alraune's sap. Whether this is a good or a bad thing is still undetermined.
+
+Declann aparently used to live here. Apparently it was not like this when he was here last. He says that it wasn't as culty when he was here last. He also stated that there wasn't this much aversion to fire. So something must have caused this fascination with Alraune.
+
+The villagers tried to sacrifice all of us to Alraune. We were chased around the village by the frantic mob. We were able to dodge our way through the village to Declan's cousin, Otto. He told us that our "sacrifice" would be used to increase Alraune's crop yield. Not only that, but, according to Otto, the markings are meant to slow aging, assist with health, and obey and worship Alraune. I think it's very clear at this point that this isn't a ggod thing. Anyway, the villagers and the tree have been neutralized. There were some innocent casualties, but the situation has been handled. Bellow are notes from interesting documents found in the village. Both of these documents will be submitted to SCAB of couse if you wish to look further deep into them.
+
+**Notes on the books found in the town**
+Tenenbaum apparently used to be The Village of Mekkel. 3000 years ago, Flora was at the height of her worship on the material plane. However, 1000 years after that, Flora worship diminished and she no longer has the same presence and power she once commanded on this plane.  The oldest surviving dates of The Village of Mekkel date back to 1000 years ago, but it's possible that there are older records that have been lost. We should probably look further into that if we can.
+
+The Village of Mekkel was founded by a Firbolg tribe called the Mekkelferce in the Grim Mountains as a place of worship for Flora. This tribe dates only 500 years ago. During that time Mekkel was at its pinnacle and was supposedly hailed as the “Last Beacon of Flora.” Well on this plane anyway.
+
+Over the **next** 500 years, the village began to decline until it disappeared completely. Then, 400 years later, Gary Mekkelferce recounts the dying days of the village of Mekkel as more and more villagers succumb to the Panda Plague. Apparently their great oak tree also no longer bears any fruit. Gary then prays that Flora will spare his people and especially his soon to be born daughter from this terrible plague. There is no other entry after that. From this I feel it can be assumed that Gary nor his daughter survived the plague.
+
+After that, the Tenenbaum ledger picks up. From what I can gather from the entries every three years during the winter a person would be sacrificed to keep Alraune strong. Over the course of 100 years, there have been anywhere between 30-60 victims, it's hard to get precise numbers.
+
+After these documents were found we met up with the Crow's. They told us they had a treaty with the Village of Mekkel. However, since the village disappeared over a century ago they stopped coming to this area. They told us that Alraune was a blood ent. They were also rather confused with us, since apparently none of this should've happened here without them knowing. We might wanna look into that.

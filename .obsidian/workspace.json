@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "6d7824af4b75f777",
+    "type": "split",
+    "children": [
+      {
+        "id": "15fa2ba0d9248aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d4ddf25b54f96e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burgundy Topics/DPA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "796d0587da8a3f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bc9e6aa0130d61e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78b56000b840ecbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a2b9edaed3edfbf0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d481ae9c3cfa2039",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "4d63c047b8e9b602",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73d161c656bec419",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5fe4543d1c1edd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0726ff1f58de253e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Burgundy Topics/DPA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DPA"
+            }
+          },
+          {
+            "id": "9ce5f585ea1c8b5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Burgundy Topics/DPA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DPA"
+            }
+          },
+          {
+            "id": "30993ba78687a393",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0de20767127ec0ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Burgundy Topics/DPA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DPA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d4ddf25b54f96e9",
+  "lastOpenFiles": [
+    "NPC/Aurora Innsmouth.md",
+    "NPC/A Poor Fellow Citizan of Burgundy.md",
+    "NPC/Crow Hale.md",
+    "NPC/Clark Du'Mont.md",
+    "NPC/Cheetah.md",
+    "NPC/Wilfred.md",
+    "NPC/Xander Du'Mont.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Session One Notes.md",
+    "Session Three Notes.md",
+    "Session 4.md",
+    "Indigo Topics/Abastos Moore.md",
+    "NPC/Aline Harris.md",
+    "Burgundy Topics/Strange Magic.md",
+    "NPC/Arthur SCAB.md",
+    "NPC/The Mountain King.md",
+    "Burgundy Topics/Book The Plight of the Mountain King.md",
+    "Valguero Lore/Valtarian Wars.md",
+    "Burgundy Topics/Chandelle.md",
+    "Burgundy Topics/Lost Lineage.md",
+    "Burgundy Topics/PIBB.md",
+    "NPC/The Concorde.md",
+    "NPC/The Deviant.md",
+    "NPC/Abba Fuller (The Fool).md",
+    "Burgundy Topics/The Du'Mont Family.md",
+    "Burgundy Topics/The Du'Mont Shipping Incorperated.md",
+    "NPC/Lucy Du'Mont.md",
+    "Images/Pasted image 20230201182905.png",
+    "Images/Pasted image 20230201182645.png",
+    "Images/Pasted image 20230131224853.png",
+    "Images/Pasted image 20230604192438.png",
+    "Images/Pasted image 20230604192338.png",
+    "Images/Pasted image 20230523193935.png",
+    "Images/Pasted image 20230523191729.png",
+    "Images/Pasted image 20230523191216.png",
+    "Images/Pasted image 20230202195410.png",
+    "Images/Pasted image 20230131224729.png",
+    "Indigo Topics",
+    "Indigo",
+    "Untitled 1.canvas",
+    "NPC/Obscure NPCs/Medical 'Professionals'"
+  ]
+}
